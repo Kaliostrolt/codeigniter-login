@@ -13,6 +13,7 @@
         <p><b>Phone: </b><?php echo $user['phone']; ?></p>
         <p><b>Gender: </b><?php echo $user['gender']; ?></p>
     </div>
+    <div><a href="/users/logout">Logout</a></div>
 </div>
 </body>
 </html>
